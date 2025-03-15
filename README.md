@@ -1,7 +1,27 @@
 # **Vijay Babu Karem**  
-📍 **Texas, United States** | 💼 **Business Analyst | Data Analyst**  
-📩 **Email:** [karemvijay2000@gmail.com](mailto:karemvijay2000@gmail.com) | 📞 **Mobile:** [+1 (940) 977-5559](tel:+19409775559)  
-🔗 **LinkedIn:** [linkedin.com/in/vijay-babu-karem-1a76b2245/](https://www.linkedin.com/in/vijay-babu-karem-1a76b2245/) | 💻 **GitHub:** [github.com/VijayBabuKarem](https://github.com/VijayBabuKarem)  
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/LOCATION-TEXAS,_U.S.-0057B7?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location: Texas, U.S."/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LOOKING_FOR-BUSINESS_ANALYST,_DATA_ANALYST-4CAF50?style=for-the-badge&logo=search&logoColor=white" alt="Looking For: Business Analyst, Data Analyst"/></a>
+</p>
+
+---
+
+## 👋 **Connect with me**
+<p align="left">
+  <a href="mailto:karemvijay2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-karemvijay2000@GMAIL.COM-8E44AD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+19409775559" target="_blank">
+    <img src="https://img.shields.io/badge/MOBILE-%2B1%20940%20977%205559-FF5733?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VijayBabuKarem?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vijay-babu-karem-1a76b2245/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p> 
 
 ---
 
