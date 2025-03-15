@@ -1,114 +1,104 @@
-# Vijay Babu Karem
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LOCATION-NEW_JERSEY,_U.S.-0057B7?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location: Texas, U.S."/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LOOKING_FOR-BUSSINESS_ANALYST,_DATA_ANALYST-4CAF50?style=for-the-badge&logo=search&logoColor=white" alt="Looking For: Bussiness Analyst, Data Analyst"/></a>
-</p>
+# **Vijay Babu Karem**  
+📍 **Texas, United States** | 💼 **Business Analyst | Data Analyst**  
+📩 **Email:** [karemvijay2000@gmail.com](mailto:karemvijay2000@gmail.com) | 📞 **Mobile:** [+1 (940) 977-5559](tel:+19409775559)  
+🔗 **LinkedIn:** [linkedin.com/in/vijay-babu-karem-1a76b2245/](https://www.linkedin.com/in/vijay-babu-karem-1a76b2245/) | 💻 **GitHub:** [github.com/VijayBabuKarem](https://github.com/VijayBabuKarem)  
 
 ---
 
-## 👋 **Connect with me**
-<p align="left">
-  <a href="mailto:karemvijay2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-karemvijay2000@GMAIL.COM-8E44AD?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:+19409775559" target="_blank">
-    <img src="https://img.shields.io/badge/MOBILE-%2B1%20940%20977%205559-FF5733?style=for-the-badge&logo=phone&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Bensonmoses?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vijay-babu-karem-1a76b2245/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
+## **🚀 Profile Summary**  
+Experienced **Business Analyst & Data Analyst** with expertise in **data visualization, business intelligence, and data-driven decision-making**. Passionate about transforming raw data into meaningful insights to drive business efficiency and improve strategic planning. Skilled in **SQL, Python, Power BI, Tableau, and Excel Analytics** to analyze and present data effectively.
 
 ---
 
-## **🚀 Profile Summary**
-Senior **Azure Data Engineer & Data Scientist** with **4+ years of experience** in **ETL, data pipelines, machine learning, and cloud solutions** across **Azure, AWS, and GCP**. Proven expertise in **big data analytics, AI, and cloud computing** to drive **scalable, automated data solutions**. Passionate about **building AI-powered applications** and leveraging **MLOps for production-ready ML models**.
-
-💡 **Key Strengths:**  
-✔️ **Expert in Cloud Data Solutions:** Azure (ADF, Databricks, Synapse), AWS (Glue, Redshift), GCP (BigQuery, Dataflow)  
-✔️ **ETL & Data Pipelines:** Apache Airflow, dbt, PySpark, Snowflake, Kafka, SQL  
-✔️ **Machine Learning & AI:** TensorFlow, PyTorch, NLP (BERT, Hugging Face), MLOps (MLflow, Kubeflow)  
-✔️ **Data Analytics & Visualization:** Power BI, Tableau, Excel Analytics  
-✔️ **DevOps & MLOps:** Azure DevOps, CI/CD, Terraform, Docker, Kubernetes  
-
----
-
-## **📚 Education**
-🎓 **Master of Science in Computer Science** – *University of North Texas, Dallas, US (Dec 2024)*  
+## **🎓 Education**  
+🎓 **Master of Science in Business Analytics** – *University of North Texas, Dallas, US (Dec 2024)*  
 🎓 **Bachelor of Technology in Computer Science & Engineering** – *Bharath University, India (May 2020)*  
 
 ---
 
-## **💼 Work Experience**
+## **💼 Work Experience**  
 
-### **Ant Farm Development Services | Business Analyst**  
+### **Business Analyst | Ant Farm Development Services**  
 📍 *Texas, US | Jan 2025 – Present*  
+- Collaborated with stakeholders to gather business requirements and develop **data-driven reports**.
+- Conducted market research and **data analysis** to support business strategy.
+- Created interactive **Power BI dashboards** for executive decision-making.
 
-
-### **AI CONNEX | Business Data Analyst**  
+### **Business Data Analyst | AI CONNEX**  
 📍 *Dallas, US | Feb 2024 – Dec 2024*  
-  
+- Analyzed customer behavior and product trends using **SQL and Python**.
+- Built predictive models to enhance marketing campaigns and business growth.
+- Optimized data processing workflows using **Tableau and Power BI**.
 
-### **HSBC | Data Analyst**  
+### **Data Analyst | HSBC**  
 📍 *Hyderabad, India | May 2021 – Dec 2022*  
+- Extracted, cleaned, and analyzed **large datasets** to support banking operations.
+- Developed **dashboards and reports** to visualize financial performance.
+- Implemented automation scripts to improve data collection efficiency.
 
-### **Infoziant | Junior Data Analyst Intern**
+### **Junior Data Analyst Intern | Infoziant**  
 📍 *Chennai, India | May 2020 – April 2021*  
-
-
----
-
-## **🔬 Featured Projects**
-### **BERT Tweet Sentiment Analysis**  
-🛠️ **Python, TensorFlow, BERT, NLP**  
-🔗 [Project Link](https://github.com/Bensonmoses/BERTweetSent-Deep-Sentiment-Dive-with-tweets)  
-- Developed a **sentiment classification model** for **Twitter data** using **BERT**, achieving **high accuracy**.  
+- Assisted in **data mining and reporting** for client projects.
+- Developed **Excel-based reports** to track key business metrics.
+- Created process improvement workflows for data processing.
 
 ---
 
-## **🎖️ Awards & Involvement**
-### **Ministry Work & Orphanage Support**  
-🔗 [Holy Spirit Prayer House](https://holyspiritprayerhouse.com/)  
-- Developed a **ministry-focused website** for **gospel outreach & orphanage support**.  
-- Integrated **donation pages, user registration, and AI-powered chatbot** for **Bible-related queries**.  
-
-### **ElevateMe Bootcamp (March 2025 – Present)**  
-- Completed **300+ hours** of **Data Analytics & Machine Learning coursework**.  
-- Conducted **EDA & Tableau visualizations** for **employee attrition analysis**.  
-- Developing a **real-time ML project** for **predictive analytics**.  
+## **📊 Skills & Technologies**  
+✔️ **Data Analysis & Visualization:** Power BI, Tableau, Excel, SQL  
+✔️ **Programming & Data Processing:** Python (Pandas, NumPy), R, SQL  
+✔️ **Databases:** SQL Server, MySQL, PostgreSQL  
+✔️ **Business Intelligence & Reporting:** Power BI, Tableau, Excel Analytics  
+✔️ **Project Management & Agile:** Jira, Confluence, Agile methodologies  
+✔️ **Data Modeling & Forecasting:** Regression, Predictive Analytics, Machine Learning  
 
 ---
 
-### **📜 Certifications**
-✔️ **Elements of AI Certification – University of Alabama**  
-✔️ **Python Programming – HackerRank** 🔗 [Certificate](https://www.hackerrank.com/certificates/8fe79bd41d2c)  
-✔️ **What Is Data Science – IBM** 🔗 [Certificate](https://coursera.org/share/f77c4e9a14d533f71fd8ee98242b2614)  
+## **📜 Certifications**  
+✔️ **Apache PySpark by Example – LinkedIn**  
+✔️ **Agile Foundations – LinkedIn**  
+✔️ **Business Analytics Specialization – Coursera**  
+✔️ **SQL for Data Science – Udemy**  
 
 ---
 
-## VOLUNTEERING
+## **🔬 Featured Projects**  
+### **Customer Churn Prediction**  
+🛠️ **Python, Machine Learning, SQL**  
+- Built a predictive model to **identify customer churn** using machine learning.  
+- Visualized insights using **Power BI dashboards** for decision-makers.  
 
-### Volunteer Set-up Coordinator at Hoboken Grace | Hoboken Grace Community Church | May 2022 - Present
-- Responsible for setting up chairs, signboards, directional flags, and audiovisual equipment for weekly meetings and events.
-- Ensured a well-organized and welcoming environment for attendees.
-- Demonstrated strong attention to detail and time management skills.
-- Contributed to the success of community events at Hoboken Grace.
-
-### Friday Night Social Gatherings Participant | International Friendships, Inc. | July 2023 - Present
-- Active member of IFI (International Fellowship) community, regularly attending Friday night gatherings.
-- Engage in social activities, including board games and discussions on various topics, fostering a sense of community and connection.
-- Contribute to meaningful conversations about the Bible and social issues, promoting personal and spiritual growth.
-- Volunteered to assist in setting up chairs and organizing meeting spaces, demonstrating dedication to enhancing the group's experience.
+### **Sales Performance Dashboard**  
+🛠️ **Power BI, SQL, Excel Analytics**  
+- Designed an **interactive dashboard** to analyze company sales trends.  
+- Automated reporting pipelines to reduce **manual data processing time**.
 
 ---
 
-## **📊 GitHub Stats**
+## **🌟 Volunteering & Community Involvement**  
+### **Data Analytics Mentor | ElevateMe Bootcamp**  
+📍 *March 2025 – Present*  
+- Provided mentorship and guidance to students learning **business analytics and data visualization**.  
+- Conducted hands-on workshops on **SQL, Power BI, and data storytelling**.  
+
+### **Community Service | International Friendships, Inc.**  
+📍 *July 2023 – Present*  
+- Engaged in **community discussions and social outreach programs**.  
+- Volunteered in event setup and organization to foster networking opportunities.  
+
+---
+
+## **📩 Contact & Networking**  
+📧 **Email:** [karemvijay2000@gmail.com](mailto:karemvijay2000@gmail.com)  
+📞 **Phone:** [+1 (940) 977-5559](tel:+19409775559)  
+🔗 **LinkedIn:** [linkedin.com/in/vijay-babu-karem-1a76b2245/](https://www.linkedin.com/in/vijay-babu-karem-1a76b2245/)  
+💻 **GitHub:** [github.com/VijayBabuKarem](https://github.com/VijayBabuKarem)  
+📊 **Tableau Public:** [tableau.com/profile/vijay-babu-karem](https://tableau.com/profile/vijay-babu-karem)  
+
+---
+
+### **📊 GitHub Stats**  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bensonmoses&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bensonmoses&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=VijayBabuKarem&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayBabuKarem&theme=tokyonight" width="49%">
 </p>
