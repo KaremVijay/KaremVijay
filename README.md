@@ -15,7 +15,7 @@
   <a href="tel:+19409775559" target="_blank">
     <img src="https://img.shields.io/badge/MOBILE-%2B1%20940%20977%205559-FF5733?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
-  <a href="https://github.com/VijayBabuKarem?tab=repositories" target="_blank">
+  <a href="https://github.com/KaremVijay?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vijay-babu-karem-1a76b2245/" target="_blank">
