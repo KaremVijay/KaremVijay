@@ -26,13 +26,13 @@
 ---
 
 ## **🚀 Profile Summary**  
-Experienced **Business Analyst & Data Analyst** with expertise in **data visualization, business intelligence, and data-driven decision-making**. Passionate about transforming raw data into meaningful insights to drive business efficiency and improve strategic planning. Skilled in **SQL, Python, Power BI, Tableau, and Excel Analytics** to analyze and present data effectively.
+Detail-oriented Business Analyst & Data Analyst with 3+ years of experience in leveraging data-driven insights to enhance business strategies and decision-making. Skilled in business intelligence, data visualization, process optimization, and statistical analysis to improve operational efficiency. Proficient in SQL, Power BI, Tableau, Python, and Excel for data-driven reporting and performance monitoring. Experienced in requirement gathering, stakeholder management, KPI tracking, and predictive modeling. Passionate about delivering actionable business insights through data analytics and visualization.
 
 ---
 
 ## **🎓 Education**  
 🎓 **Master of Science in Business Analytics** – *University of North Texas, Dallas, US (Dec 2024)*  
-🎓 **Bachelor of Technology in Computer Science & Engineering** – *Bharath University, India (May 2020)*  
+🎓 **Bachelor of Technology in Electronics and Communication Engineering** – *Gitam University, India (May 2021)*  
 
 ---
 
@@ -40,27 +40,38 @@ Experienced **Business Analyst & Data Analyst** with expertise in **data visuali
 
 ### **Business Analyst | Ant Farm Development Services**  
 📍 *Texas, US | Jan 2025 – Present*  
-- Collaborated with stakeholders to gather business requirements and develop **data-driven reports**.
-- Conducted market research and **data analysis** to support business strategy.
-- Created interactive **Power BI dashboards** for executive decision-making.
+- Collaborated with business stakeholders to analyze key performance metrics and develop data-driven recommendations.
+- Designed interactive dashboards using Power BI and Tableau, tracking operational performance and customer engagement.
+- Conducted cost-benefit analysis for business process optimization, leading to a 15% reduction in operational costs.
+- Gathered and documented business requirements, translating them into technical specifications for development teams.
+- Automated reporting workflows, streamlining monthly and quarterly reports for decision-makers.
+
 
 ### **Business Data Analyst | AI CONNEX**  
 📍 *Dallas, US | Feb 2024 – Dec 2024*  
-- Analyzed customer behavior and product trends using **SQL and Python**.
-- Built predictive models to enhance marketing campaigns and business growth.
-- Optimized data processing workflows using **Tableau and Power BI**.
+- Developed SQL queries and Power BI dashboards to monitor business performance, revenue trends, and customer retention.
+- Conducted predictive analytics and statistical modeling, improving business forecasting accuracy by 20%.
+- Standardized data governance practices, ensuring data integrity and compliance across business units.
+- Worked closely with cross-functional teams to develop automated ETL pipelines for structured and unstructured data.
+- Designed and implemented KPI tracking frameworks to support decision-making for senior leadership.
 
-### **Data Analyst | HSBC**  
+
+### **Business  Analyst | HSBC**  
 📍 *Hyderabad, India | May 2021 – Dec 2022*  
-- Extracted, cleaned, and analyzed **large datasets** to support banking operations.
-- Developed **dashboards and reports** to visualize financial performance.
-- Implemented automation scripts to improve data collection efficiency.
+- Led business intelligence projects, defining use cases and user stories for enterprise analytics solutions.
+- Developed SQL-based reports for real-time business analytics, improving data accessibility for executives.
+- Conducted gap analysis & risk assessments, identifying process inefficiencies and recommending data-driven improvements.
+- Automated data validation and reporting, reducing manual workload by 40%.
+- Partnered with stakeholders to define and document functional requirements, ensuring successful project execution.
+
 
 ### **Junior Data Analyst Intern | Infoziant**  
 📍 *Chennai, India | May 2020 – April 2021*  
-- Assisted in **data mining and reporting** for client projects.
-- Developed **Excel-based reports** to track key business metrics.
-- Created process improvement workflows for data processing.
+- Designed Power BI dashboards to visualize business trends and optimize reporting for leadership teams.
+- Performed data cleansing, validation, and transformation to enhance the accuracy of business analytics reports.
+- Assisted in requirement analysis, ensuring business intelligence solutions aligned with organizational needs.
+- Developed Excel-based financial models, supporting forecasting and budgeting efforts.
+
 
 ---
 
@@ -83,15 +94,19 @@ Experienced **Business Analyst & Data Analyst** with expertise in **data visuali
 ---
 
 ## **🔬 Featured Projects**  
-### **Customer Churn Prediction**  
-🛠️ **Python, Machine Learning, SQL**  
-- Built a predictive model to **identify customer churn** using machine learning.  
-- Visualized insights using **Power BI dashboards** for decision-makers.  
+### **Customer Behavior Analysis & Churn Prediction**  
+🛠️ **Python, Machine Learning, SQL, Power BI**  
+- Built a churn prediction model, identifying at-risk customers and improving retention rates by 25%.
+- Designed automated reporting dashboards using Power BI, tracking real-time customer engagement and trends.
+- Conducted feature engineering and data preprocessing, enhancing model accuracy and reducing data inconsistencies.
+ 
 
-### **Sales Performance Dashboard**  
+### **Financial Performance Dashboard for Business Intelligence**  
 🛠️ **Power BI, SQL, Excel Analytics**  
-- Designed an **interactive dashboard** to analyze company sales trends.  
-- Automated reporting pipelines to reduce **manual data processing time**.
+- Developed a real-time financial performance dashboard, integrating data from multiple sources (SQL, Excel, and Snowflake).
+- Automated ETL processes, improving data processing efficiency by 50%.
+- Provided data-driven recommendations for optimizing business performance and revenue forecasting.
+
 
 ---
 
