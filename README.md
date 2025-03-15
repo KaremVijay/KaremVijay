@@ -123,15 +123,6 @@ Detail-oriented Business Analyst & Data Analyst with 3+ years of experience in l
 
 ---
 
-## **📩 Contact & Networking**  
-📧 **Email:** [karemvijay2000@gmail.com](mailto:karemvijay2000@gmail.com)  
-📞 **Phone:** [+1 (940) 977-5559](tel:+19409775559)  
-🔗 **LinkedIn:** [linkedin.com/in/vijay-babu-karem-1a76b2245/](https://www.linkedin.com/in/vijay-babu-karem-1a76b2245/)  
-💻 **GitHub:** [github.com/VijayBabuKarem](https://github.com/VijayBabuKarem)  
-📊 **Tableau Public:** [tableau.com/profile/vijay-babu-karem](https://tableau.com/profile/vijay-babu-karem)  
-
----
-
 ### **📊 GitHub Stats**  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=VijayBabuKarem&show_icons=true&theme=tokyonight" width="49%">
